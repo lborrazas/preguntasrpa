@@ -36,7 +36,7 @@ export default function page() {
                 <td>2008</td>
             </tr>
             <tr>
-                <td>¿Quién fue el presidente uruguayo que promovió la "ley de la marihuana", legalizando su producción y
+                <td>¿Quién fue el presidente uruguayo que promovió la ley de la marihuana, legalizando su producción y
                     venta?
                 </td>
                 <td>José Mujica</td>
