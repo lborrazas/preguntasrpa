@@ -13,7 +13,7 @@ export default function page() {
             </thead>
             <tbody>
             <tr>
-                <td>¿Quién es conocido como el "Rey del Pop"?</td>
+                <td>¿Quién es conocido como el Rey del Pop?</td>
                 <td>Michael Jackson</td>
                 <td>Elton John</td>
                 <td>Prince</td>
@@ -27,21 +27,21 @@ export default function page() {
                 <td>The Wall de Pink Floyd</td>
             </tr>
             <tr>
-                <td>¿Qué banda británica es famosa por canciones como "Bohemian Rhapsody" y "We Will Rock You"?</td>
+                <td>¿Qué banda británica es famosa por canciones como Bohemian Rhapsody y We Will Rock You?</td>
                 <td>Queen</td>
                 <td>The Beatles</td>
                 <td>The Rolling Stones</td>
                 <td>Led Zeppelin</td>
             </tr>
             <tr>
-                <td>¿Quién lanzó el álbum titulado "1989" en el año 2014?</td>
+                <td>¿Quién lanzó el álbum titulado 1989 en el año 2014?</td>
                 <td>Taylor Swift</td>
                 <td>Katy Perry</td>
                 <td>Adele</td>
                 <td>Ariana Grande</td>
             </tr>
             <tr>
-                <td>¿Qué cantante es conocida por hits como "Like a Virgin" y "Material Girl"?</td>
+                <td>¿Qué cantante es conocida por hits como Like a Virgin y Material Girl?</td>
                 <td>Madonna</td>
                 <td>Cyndi Lauper</td>
                 <td>Cher</td>
@@ -55,7 +55,7 @@ export default function page() {
                 <td>Dua Lipa</td>
             </tr>
             <tr>
-                <td>¿Qué banda es conocida por su álbum "The Dark Side of the Moon"?</td>
+                <td>¿Qué banda es conocida por su álbum The Dark Side of the Moon?</td>
                 <td>Pink Floyd</td>
                 <td>The Beatles</td>
                 <td>Led Zeppelin</td>
@@ -69,14 +69,14 @@ export default function page() {
                 <td>David Bowie</td>
             </tr>
             <tr>
-                <td>¿Qué cantante pop es conocida por su álbum "Teenage Dream", que incluye cinco sencillos número uno en la lista Billboard Hot 100?</td>
+                <td>¿Qué cantante pop es conocida por su álbum Teenage Dream, que incluye cinco sencillos número uno en la lista Billboard Hot 100?</td>
                 <td>Katy Perry</td>
                 <td>Taylor Swift</td>
                 <td>Lady Gaga</td>
                 <td>Miley Cyrus</td>
             </tr>
             <tr>
-                <td>¿Qué banda es conocida por su álbum "Nevermind" que incluye el hit "Smells Like Teen Spirit"?</td>
+                <td>¿Qué banda es conocida por su álbum Nevermind que incluye el hit Smells Like Teen Spirit?</td>
                 <td>Nirvana</td>
                 <td>Pearl Jam</td>
                 <td>Radiohead</td>
